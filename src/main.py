@@ -3,3 +3,6 @@ def add(a,b):
 
 def mul(a,b):
     return a*b
+
+m = mul(6,7)
+print(m)
