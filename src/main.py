@@ -8,3 +8,5 @@ m = mul(6,7)
 print(m)
 
 a= add(7,10)
+
+print(a)
