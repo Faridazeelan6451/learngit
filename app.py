@@ -3,3 +3,5 @@ def sub(a,b):
 
 
 s = sub(20,15)
+
+print(s)
